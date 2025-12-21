@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void single(){
-
+int main()
+{ 
+    int arr[] = [1,2,];
 }
