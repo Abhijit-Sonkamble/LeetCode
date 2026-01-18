@@ -30,7 +30,6 @@ int main()
 
                 cout << "Index of target sum no. = " << " [ " << i << " , " << j << " ] " << endl;
                 cout << "Number of target sum no. = " << " [ " << arr[i] << " , " << arr[j] << " ] " << endl;
-
                 return 0;
             }
         }
